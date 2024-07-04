@@ -1,0 +1,6 @@
+org\springframework\quoters\QuoteRepository.class
+org\springframework\quoters\DatabaseLoader.class
+org\springframework\quoters\QuotersIncorporatedApplication.class
+org\springframework\quoters\QuoteResource.class
+org\springframework\quoters\Quote.class
+org\springframework\quoters\QuoteController.class

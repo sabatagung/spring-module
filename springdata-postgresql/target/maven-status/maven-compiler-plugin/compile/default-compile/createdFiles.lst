@@ -1,0 +1,8 @@
+com\example\springdata_postgresql\SpringdataPostgresqlApplication.class
+com\example\springdata_postgresql\controller\MainController.class
+com\example\springdata_postgresql\model\User.class
+com\example\springdata_postgresql\repo\ProductRepository.class
+com\example\springdata_postgresql\LoadDatabase.class
+com\example\springdata_postgresql\model\Product.class
+com\example\springdata_postgresql\repo\UserRepository.class
+com\example\springdata_postgresql\controller\ProductController.class

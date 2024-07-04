@@ -1,0 +1,6 @@
+com\example\github\GitHubLookupService.class
+com\example\github\model\GithubUser.class
+com\example\github\config\AppConfig.class
+com\example\github\controller\AsyncController.class
+com\example\github\GithubApplication.class
+com\example\github\config\AsyncConfig.class
